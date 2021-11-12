@@ -6,8 +6,11 @@ int main (void)
 {
     
     int N, K;
+    
+    do {
     cout<<"N: ";
     cin>>N;
+    } while (N < 3);
 
     for (int i = 1; i < N; i++)
     {
