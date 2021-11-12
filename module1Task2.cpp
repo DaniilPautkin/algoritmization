@@ -4,7 +4,7 @@
 
 using namespace std;
 
-int a,b,c,A,B,countN = 0;
+int A,B,countN=0;
 
 int main()
 {
