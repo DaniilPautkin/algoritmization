@@ -1,7 +1,5 @@
 #include <iostream>
 #include <time.h>
-#include <algorithm>
-#include <cctype>
 using namespace std;
 
 int main ()
